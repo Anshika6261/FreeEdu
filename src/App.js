@@ -6,7 +6,7 @@ import Home from "./Component/Home";
 import Exam from "./Component/Exam";
 import Contact from "./Component/Contact";
 import Landing from "./Component/Landing";
-import { BrowserRouter as Router,Route, Routes} from "react-router-dom";
+import { HashRouter as Router,Route, Routes} from "react-router-dom";
 
 function App() {
   return (
