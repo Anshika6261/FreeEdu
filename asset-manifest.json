@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FreeEdu/static/css/main.f7503f73.css",
+    "main.js": "/FreeEdu/static/js/main.38f3e5f1.js",
+    "static/js/453.c36b30d8.chunk.js": "/FreeEdu/static/js/453.c36b30d8.chunk.js",
+    "static/media/leaner.png": "/FreeEdu/static/media/leaner.1bcff39dcebb098ab96a.png",
+    "static/media/landingPage.png": "/FreeEdu/static/media/landingPage.7c24ca38e311f4784029.png",
+    "static/media/student.png": "/FreeEdu/static/media/student.49aa9ed3571c05f68c0c.png",
+    "static/media/teacher.png": "/FreeEdu/static/media/teacher.63fa0103fafdb37858f1.png",
+    "static/media/science.png": "/FreeEdu/static/media/science.afc4a555a5d986ce76a6.png",
+    "static/media/math.png": "/FreeEdu/static/media/math.2d7169ec1d46ff7d31b4.png",
+    "static/media/personalizedLearning.png": "/FreeEdu/static/media/personalizedLearning.c7eafc8f22d7df853272.png",
+    "static/media/court.png": "/FreeEdu/static/media/court.df2ad0895d4c388b1cd7.png",
+    "static/media/increase.png": "/FreeEdu/static/media/increase.be3593150c91d6477a86.png",
+    "static/media/logo.svg": "/FreeEdu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FreeEdu/index.html",
+    "main.f7503f73.css.map": "/FreeEdu/static/css/main.f7503f73.css.map",
+    "main.38f3e5f1.js.map": "/FreeEdu/static/js/main.38f3e5f1.js.map",
+    "453.c36b30d8.chunk.js.map": "/FreeEdu/static/js/453.c36b30d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7503f73.css",
+    "static/js/main.38f3e5f1.js"
+  ]
+}
